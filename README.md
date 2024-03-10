@@ -1,0 +1,1 @@
+# reticle_animation_with_manim
